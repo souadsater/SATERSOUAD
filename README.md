@@ -4,18 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b5c,50:7b61ff,100:172b70&height=200&section=header&text=Hi,%20I'm%20Souad%20Sater&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Souad Sater Header"/>
 </p>
 
-<!-- ==================== SOCIAL LINKS ==================== -->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/souad-sater-5822aa240/">
-    <img src="https://img.shields.io/badge/LinkedIn-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:souadsater2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF3B5C?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SATERSOUAD&style=for-the-badge&color=7B61FF" />
-</p>
-
 ---
 
 ## 👋 About Me
