@@ -1,7 +1,7 @@
 <!-- ==================== HEADER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff3b5c,50:7b61ff,100:172b70&amp;height=200&amp;section=header&amp;text=Souad%20Sater&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&amp;descAlignY=60&amp;descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b5c,50:7b61ff,100:172b70&height=200&section=header&text=Hi,%20I'm%20Souad%20Sater&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Souad Sater Header"/>
 </p>
 
 <!-- ==================== SOCIAL LINKS ==================== -->
