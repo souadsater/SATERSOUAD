@@ -1,81 +1,74 @@
-# SATERSOUAD
 # Hi, I'm Souad Sater 👋
 
-### Full-Stack Web Developer | AI & Machine Learning Enthusiast
+### Aspiring Full-Stack Developer | AI & Machine Learning Enthusiast
 
-I'm a Computer Science and Systems Engineering Master's student from Morocco, passionate about building clean, practical, and user-focused web applications while exploring Artificial Intelligence through Python and Machine Learning.
+🎓 Master's Student in Computer Science & Systems Engineering at ENSI Tanger, Morocco.
 
-I enjoy turning ideas into complete applications by combining frontend development, backend logic, databases, and intelligent features.
+I'm passionate about software development, building practical web applications, and exploring Artificial Intelligence and Machine Learning.
 
----
-
-## About Me
-
-- 💻 Focused on Full-Stack Web Development
-- 🤖 Exploring AI integration using Python and Machine Learning
-- 🌱 Continuously improving my software engineering skills
-- 🚀 Interested in building scalable and useful applications
-- 🤝 Open to collaborating on web development and AI projects
+I enjoy combining frontend technologies, backend development, databases, and intelligent solutions to create useful and user-friendly applications.
 
 ---
 
-## Tech Stack
+## 👩‍💻 About Me
 
-### Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
-</p>
-
-### AI & Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Machine Learning
-- Data Analysis
-- AI-powered Application Development
+- 🎓 Studying Computer Science & Systems Engineering.
+- 💻 Interested in Full-Stack Web Development.
+- 🤖 Exploring Artificial Intelligence and Machine Learning with Python.
+- 🌱 Continuously learning and improving my technical skills.
+- 🚀 Interested in software engineering, Cloud and DevOps.
+- 🤝 Open to collaboration on interesting development projects.
 
 ---
 
-## Currently Learning
+## 🛠️ Tech Stack
 
-- Advanced JavaScript
-- Backend Architecture
-- Machine Learning
-- Cloud & DevOps Fundamentals
+**Frontend Development**
 
----
+HTML5 · CSS3 · JavaScript · React · Tailwind CSS
 
-## GitHub Stats
+**Backend Development**
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
-</p>
+PHP · Laravel
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
-</p>
+**Database**
 
----
+MySQL, SQL, PL/SQL
 
-## Featured Projects
+**Programming & AI**
 
-I'm currently building projects that combine web development with intelligent features.
+Python · Machine Learning · Data Analysis
 
-- 🌐 Full-Stack Web Applications
-- 🤖 AI-Powered Web Projects
-- 🗄️ Database Management Projects
-- 🔧 Backend Development Projects
+**Tools & Technologies**
+
+Git · GitHub · UML · Jupyter Notebook
 
 ---
 
-## Connect With Me
+## 📚 Currently Learning
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 📧 Email: YOUR_EMAIL
+- Advanced JavaScript & React
+- Backend Development & Software Architecture
+- Machine Learning & AI Integration
+- Cloud Computing & DevOps Fundamentals
 
 ---
 
-> *"Building practical web applications today while creating smarter solutions for tomorrow."*
+## 🚀 Featured Projects
+
+Here are some projects I'm working on or have explored:
+
+- 🤖 **Sentiment Analysis** – Machine Learning project for analyzing and classifying text sentiment.
+
+*More projects coming soon!*
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Souad Sater](https://www.linkedin.com/in/souad-sater-5822aa240/)
+- 📧 Email: souadsater2@gmail.com
+
+---
+
+*"Building meaningful applications, learning continuously, and exploring intelligent solutions."*
