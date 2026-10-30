@@ -1,12 +1,15 @@
-# Hi, I'm Souad Sater 👋
+<!-- 🔴 TOP HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b5c,50:7b61ff,100:172b70&height=200&section=header&text=Hi,%20I'm%20Souad%20Sater&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Development%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=60&descSize=16" width="100%" />
+</p>
 
-### Aspiring Full-Stack Developer | AI & Machine Learning Enthusiast
+<h3 align="center">
+  🎓 Master's Student in Computer Science & Systems Engineering
+</h3>
 
-🎓 Master's Student in Computer Science & Systems Engineering at ENSI Tanger, Morocco.
-
-I'm passionate about software development, building practical web applications, and exploring Artificial Intelligence and Machine Learning.
-
-I enjoy combining frontend technologies, backend development, databases, and intelligent solutions to create useful and user-friendly applications.
+<p align="center">
+  📍 ENSI Tanger, Morocco
+</p>
 
 ---
 
@@ -16,49 +19,69 @@ I enjoy combining frontend technologies, backend development, databases, and int
 - 💻 Interested in Full-Stack Web Development.
 - 🤖 Exploring Artificial Intelligence and Machine Learning with Python.
 - 🌱 Continuously learning and improving my technical skills.
-- 🚀 Interested in software engineering, Cloud and DevOps.
+- 🚀 Interested in Software Engineering, Cloud and DevOps.
 - 🤝 Open to collaboration on interesting development projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend Development**
+### 🔵 Frontend Development
 
-HTML5 · CSS3 · JavaScript · React · Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-**Backend Development**
+### 🔴 Backend Development
 
-PHP · Laravel
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+</p>
 
-**Database**
+### 🗄️ Database & SQL
 
-MySQL, SQL, PL/SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+</p>
 
-**Programming & AI**
+`SQL` · `PL/SQL`  · `MySQL`
 
-Python · Machine Learning · Data Analysis
+### 🤖 Programming & Artificial Intelligence
 
-**Tools & Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-Git · GitHub · UML · Jupyter Notebook
+`Machine Learning` · `Data Analysis` · `AI Integration`
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,jupyter" />
+</p>
+
+`UML` · `Git` · `GitHub` · `Jupyter Notebook`
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced JavaScript & React
-- Backend Development & Software Architecture
-- Machine Learning & AI Integration
-- Cloud Computing & DevOps Fundamentals
+- 🔹 Advanced JavaScript & React
+- 🔹 Backend Development & Software Architecture
+- 🔹 Machine Learning & AI Integration
+- 🔹 Cloud Computing & DevOps Fundamentals
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are some projects I'm working on or have explored:
+### 🤖 Sentiment Analysis
 
-- 🤖 **Sentiment Analysis** – Machine Learning project for analyzing and classifying text sentiment.
+Machine Learning project for analyzing and classifying text sentiment.
+
+- Python
+- Machine Learning
+- Data Analysis
 
 *More projects coming soon!*
 
@@ -66,9 +89,23 @@ Here are some projects I'm working on or have explored:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Souad Sater](https://www.linkedin.com/in/souad-sater-5822aa240/)
-- 📧 Email: souadsater2@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/souad-sater-5822aa240/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:souadsater2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-FF3B5C?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-*"Building meaningful applications, learning continuously, and exploring intelligent solutions."*
+<h3 align="center">
+  💜 Building meaningful applications, learning continuously,
+  and exploring intelligent solutions.
+</h3>
+
+<!-- 🔴 BOTTOM FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:172b70,50:7b61ff,100:ff3b5c&height=120&section=footer" width="100%" />
+</p>
